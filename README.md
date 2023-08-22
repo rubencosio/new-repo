@@ -1,2 +1,9 @@
 # new-repo
-repository for testing
+repositorio de pruebas
+
+##Descripcion
+##Instalacion
+##Uso
+##Soporte
+##Roadmap
+##Licencia
