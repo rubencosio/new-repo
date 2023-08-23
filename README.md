@@ -1,9 +1,9 @@
 # new-repo
-repositorio de pruebas
+Repositorio de pruebas
 
-##Descripcion  
-##Instalacion  
-##Uso  
-##Soporte  
-##Roadmap  
-##Licencia  
+- Descripcion  
+- Instalacion  
+- Uso  
+- Soporte  
+- Roadmap  
+- Licencia  
